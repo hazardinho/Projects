@@ -5,10 +5,10 @@ from selenium import webdriver;
 Timer = 120
 
 #youtube link
-link = 'https://youtu.be/zkBWZYtfCLc'
+link = 'https://www.youtube.com/watch?v=hW_WFUs3hfQ'
 
 #number of views
-views = 100
+views = 20
 
 driver = webdriver.Chrome()
 driver.get(link)
